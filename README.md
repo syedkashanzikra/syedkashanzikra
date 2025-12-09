@@ -120,9 +120,9 @@
 
 
 
-
+<!--
 <div align="center">
   <img src="https://spotify-recently-played-readme.vercel.app/api?user=31yiw6y3dp36jjycsnufbgkx74sm&width=1000" alt="Spotify Recently Played" />
 <div>
 
-
+-->
